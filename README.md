@@ -1,4 +1,4 @@
-```code
+```python
 class Me:
     def Adrián():
         lenguages = ['Python Basic']
