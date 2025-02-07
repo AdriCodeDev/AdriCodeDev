@@ -1,6 +1,6 @@
 ```python
 class Me:
     def Adrián():
-        lenguages = ['Python Basic']
+        lenguages = ['Python']
         print(lenguages)
-Me()
+Me
