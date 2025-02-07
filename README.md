@@ -4,5 +4,5 @@ class Me:
         age = 16
         lenguages = ['Python']
         email = "adricode.dev@gmail.com"
-        print(lenguages)
+        print(lenguages, age, email)
 Me
